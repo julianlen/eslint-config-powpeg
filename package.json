@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-powpeg",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Shareable linter configuration for Javascript projects",
   "license": "ISC",
   "author": "",
@@ -12,6 +12,6 @@
   "peerDependencies": {
     "eslint": ">=9",
     "@eslint/js": "^9.0.0",
-    "globals": "^15.0.0"
+    "globals": ">=15"
   }
 }
